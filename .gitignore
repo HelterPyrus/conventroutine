@@ -1,2 +1,8 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea
+# Ignore file named 'README.txt'
+README.txt
+
+# Ignore folder named 'output'
+output/
+
+# Ignore all .java files
+*.java
